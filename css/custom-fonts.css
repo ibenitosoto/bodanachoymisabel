@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Bacalisties';
-    src: url('/fonts/Bacalisties.woff2') format('woff2'), url('/fonts/Bacalisties.woff') format('woff'), url('/fonts/Bacalisties.woff') format('truetype');
+    src: url('/fonts/Bacalisties.woff2') format('woff2'), url('/fonts/Bacalisties.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -80,6 +80,7 @@
 
 .bacalisties {
     font-family: 'Bacalisties';
+    font-size: 80px;
 }
 
 .dayroman {

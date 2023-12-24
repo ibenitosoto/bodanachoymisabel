@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Boda_BlazorWASM_PowerAutomate.dll": "sha256-FRmU1y9MQidWBq3nrAyYnaaFdjSDeuYOxWlg74LGyGE=",
+      "Boda_BlazorWASM_PowerAutomate.dll": "sha256-i0EGQpr2+89kVrgB3bj44f52Mf\/SqkZ9X16URVqCkDw=",
       "Microsoft.AspNetCore.Components.dll": "sha256-pwSxjP5RHBJvC+hK8gBhHu\/ntPv\/hCfRNGDfYmJ7HgE=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-3r7fGCYO\/kQ0tbsGxhqVj5bbQ6SmydE+Xi\/wHPRNitE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ZcaovY3Gz73PwsjC4IO1RQGtzzzqKOFhm+DX9hFLJ00=",
