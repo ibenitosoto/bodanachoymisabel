@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Boda_BlazorWASM_PowerAutomate.dll": "sha256-5TdzCHlQtvsjxVWUwptXwLt7SU71IDBRom5qfE6HEZM=",
+      "Boda_BlazorWASM_PowerAutomate.dll": "sha256-VuwkSbejsiZ1TxU9J0FYXSeqMOBhfoA4M5Uj7lTerbg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-C3YpK\/OYrbH0UgkPnv2FdWeJXc3Av8TROmEwWB4XqU8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-3r7fGCYO\/kQ0tbsGxhqVj5bbQ6SmydE+Xi\/wHPRNitE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ZcaovY3Gz73PwsjC4IO1RQGtzzzqKOFhm+DX9hFLJ00=",
@@ -23,7 +23,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-QRewYnpJ6vl8gGMXBS2gN++\/sQ9hKcuv+rhy586Bbxs=",
       "Microsoft.JSInterop.dll": "sha256-B+Vk8GqCOuIgBOBRicBRZWxcCbY+Zwq5EYiXzxVXU\/Q=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dVsZnuFJzTERXx8UgcTgyfZNsc1\/bp6WwC0EazZznj0=",
-      "MudBlazor.dll": "sha256-L\/5U9PuP\/uMBoT1FR\/l5Yw3SVqDFS+f6j21fSc\/qpYo=",
+      "MudBlazor.dll": "sha256-GftT08PZ9PtxAMX2pXft7LoN9g\/BizHkXihdu2D23nI=",
       "System.Collections.Concurrent.dll": "sha256-viXnwpAtu7qyAyfiN+83LRfPiMGYe6bMCnxwnonoXV0=",
       "System.Collections.dll": "sha256-tb8RlkYquF7fDTVuYyRwOpg6sEc7OmezwiBDJs5UA5w=",
       "System.ComponentModel.Annotations.dll": "sha256-0sV\/u7x0w7RULepMnAPPljixRhaZFQWcfNT3AzAPyq0=",
@@ -38,7 +38,7 @@
       "System.Net.Http.dll": "sha256-fRGaz3tN5LDOxpgpDjzorqCqur7+ncMrjEgL11Qok5g=",
       "System.Net.Primitives.dll": "sha256-fWKaF2Od3h63CrU9+ADteBm+W\/n1EHGwPPY3XVlwSF8=",
       "System.ObjectModel.dll": "sha256-Chdwdttvuc2H9\/S96+peuYkDKEawm34rTvb1AA3F0aw=",
-      "System.Private.CoreLib.dll": "sha256-DJ+3Ey1a4CMCwTAdycTWWMfuoHI+cuFz8P93ufDIZfU=",
+      "System.Private.CoreLib.dll": "sha256-Igq+e3VZRaE2mo3YuK+EwD9SFlfSSVbBg496k1rHnr4=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-zmmvd\/j8wGHfX3f\/QrMbz\/oXywjowPLHocFM\/JTZRls=",
       "System.Private.Uri.dll": "sha256-vS+T44QrGXVz+Jg3UFCByu91oLIuSM13IYSQUIBH9LQ=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-1jAYEF+Exdi4XNDnLln6B20zt2CVD7Po3OAUYsZzmzE=",
