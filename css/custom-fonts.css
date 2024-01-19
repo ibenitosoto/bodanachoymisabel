@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Bacalisties';
-    src: url('/fonts/Bacalisties.woff2') format('woff2'), url('/fonts/Bacalisties.woff') format('woff');
+    src: url('/fonts/Bacalisties.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
     font-display: swap;
