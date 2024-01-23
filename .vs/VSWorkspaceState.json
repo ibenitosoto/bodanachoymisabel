@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\css\\bootstrap"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\css\\bootstrap\\bootstrap.min.css.map",
   "PreviewInSolutionExplorer": false
 }
