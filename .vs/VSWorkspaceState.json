@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\css\\bootstrap"
+    "\\css\\bootstrap",
+    "\\scripts"
   ],
   "PreviewInSolutionExplorer": false
 }
